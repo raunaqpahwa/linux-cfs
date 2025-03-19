@@ -5,8 +5,8 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(scheduler main.cpp
         process.h
-        Scheduler.cpp
-        Scheduler.h
+        scheduler.cpp
+        scheduler.h
         util.h
         thread_pool.h
         thread_pool.cpp)

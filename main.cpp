@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Scheduler.h"
+#include "scheduler.h"
 #include "util.h"
 
 int main() {
